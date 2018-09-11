@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="top.irunc.iruncview"
+    >
+    <application>
+        <activity android:name="top.irunc.activity.ActivityScanerCode">
+        </activity>
+    </application>
+</manifest>

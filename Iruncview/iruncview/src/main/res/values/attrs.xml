@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="longpressbt">
+        <attr name="btcolorstart" format="integer" />
+        <attr name="btcolorend" format="integer" />
+        <attr name="border" format="integer" />
+        <attr name="bordercolor" format="integer" />
+        <attr name="text" format="string" />
+        <attr name="textsize" format="integer" />
+        <attr name="textbold" format="boolean" />
+        <attr name="longpresstime" format="integer" />
+    </declare-styleable>
+</resources>
